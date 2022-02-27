@@ -79,19 +79,21 @@ body {
 }
 
 .volunteer {
-    background-color: #86C6F4;
+    background-color: #3DB2FF;
     text-align: center;
     border-radius: 6px;
-    border-style: solid;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: larger;
     position: absolute;
     top: 15px;
     right: 70px;
     padding-top: 5px;
     text-decoration: none;
-    height: 25px;
-    width: 100px;
-    color: black;
+    height: 30px;
+    width: 120px;
+    color: white;
+    font-weight: 550;
+    
 }
 
 .volunteer:hover {
@@ -139,7 +141,7 @@ h2 {
 }
 
 .donate {
-    background-color: lightblue;
+    background-color: #3DB2FF;
     text-align: center;
     padding-right: 20px;
     padding-top: 8px;
